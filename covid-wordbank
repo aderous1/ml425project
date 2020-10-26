@@ -1,0 +1,21 @@
+wordbank = [
+'corona',
+'coronavirus',
+'covid',
+'covid19',
+'covid-19',
+'virus',
+'pandemic',
+'epidemic',
+'lockdown',
+'testing',
+'cases',
+'hospitalization',
+'related deaths',
+'mask'
+]
+
+#import re
+#
+#if re.search('virus', 'CHINA VIRUS', re.IGNORECASE):
+#  # True
