@@ -29,7 +29,7 @@ def get_tweets(username):
     outfile = f"data/tweets/{username}.csv"
     print(f"writing to {outfile}")
     with open(outfile, 'w+') as file:
-        writer = csv.writer(file, delimiter=',')
+        writer = csv.writer(file, delimiter=',', lineterminator="\n")
         writer.writerows(tweets_for_csv)
 
 if __name__ == '__main__':
