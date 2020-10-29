@@ -38,7 +38,7 @@ if __name__ == '__main__':
         handles = json.load(f)
     handles = [x.replace('@', '') for x in handles]
     for username in handles:
-        outfile = Path(f"data/tweets/{username}.csv")
+        outfile = Path(f"data/tweets_1000/{username}.csv")
         if outfile.exists():
             print(f"{username}'s tweets already fetched in {outfile}, skipping")
         else:
