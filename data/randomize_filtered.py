@@ -17,7 +17,12 @@ wordbank_casesens = ['WHO',]
 original_files = Path('tweets_filter_covid')
 output = Path('all_filtered_randosort.csv')
 
-writer = csv.writer(output.open('w'), delimiter=',', lineterminator="\n")
+writer = csv.writer(
+    output.open('w'),
+    delimiter=',',
+    lineterminator="\n",
+    quoting=csv.QUOTE_NONNUMERIC
+)
 
 all_tweets = []
 
@@ -31,6 +36,7 @@ for orig_file in original_files.iterdir():
     last = None
     try:
         for tweet in reader:
+            tweet[3] = tweet[3].replace('\n', ' ')
             last = tweet
             n += 1
             all_tweets.append(tweet)
