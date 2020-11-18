@@ -1,0 +1,534 @@
+,lastName,firstName,state,party,chamber,gender,birthday,raceEthnicity,pre2018incumbent,citizenPopulation,medianHouseholdIncome,TweetCongress
+0,Abraham,Ralph,LA,Republican,rep,M,9/16/1954,White - Middle Eastern - Lebanese,Won,744070,36718,RepAbraham
+1,Adams,Alma,NC,Democrat,rep,F,5/27/1946,Black - African-American,Won,727330,59268,RepAdams
+2,Aderholt,Robert,AL,Republican,rep,M,7/22/1965,White - Non-Hispanic,Won,664720,41110,Robert_Aderholt
+3,Aguilar,Pete,CA,Democrat,rep,M,6/19/1979,Hispanic - Mexican,Won,650185,58668,reppeteaguilar
+4,Alexander,Lamar,TN,Republican,sen,M,7/3/1940,White - Non-Hispanic,Not up,6349395,48708,SenAlexander
+5,Allen,Rick,GA,Republican,rep,M,11/7/1951,White - Non-Hispanic,Won,692875,43933,reprickallen
+6,Allred,Colin,TX,Democrat,rep,M,4/15/1983,Black - African-American,Lost,646990,70119,RepColinAllred
+7,Amash,Justin,MI,Republican,rep,M,4/18/1980,White - Middle Eastern - Palestinian/Syrian,Won,702545,57926,justinamash
+8,Amata,Aumua,AS,Republican,rep,F,12/29/1947,White - Middle Eastern - Palestinian Arab Christian,Won,,,RepAmata
+9,Amodei,Mark,NV,Republican,rep,M,6/12/1958,White - Non-Hispanic,Won,647720,58214,MarkAmodeiNV2
+10,Armstrong,Kelly,ND,Republican,rep,M,10/8/1976,White - Non-Hispanic,Open - Elected to Senate,721470,60656,RepArmstrongND
+11,Arrington,Jodey,TX,Republican,rep,M,3/9/1972,White - Non-Hispanic,Won,681915,47875,RepArrington
+12,Axne,Cynthia,IA,Democrat,rep,F,4/20/1965,White - Non-Hispanic,Lost,770860,62323,RepCindyAxne
+13,Babin,Brian,TX,Republican,rep,M,3/23/1948,White - Non-Hispanic,Won,675240,58984,RepBrianBabin
+14,Bacon,Don,NE,Republican,rep,M,8/16/1963,White - Non-Hispanic,Won,607555,62621,repdonbacon
+15,Baird,James,IN,Republican,rep,M,6/4/1945,White - Non-Hispanic,Open - Ran for Senate,713020,53996,RepJimBaird
+16,Balderson,Troy,OH,Republican,rep,M,1/16/1962,White - Non-Hispanic,Won,735190,67415,RepBalderson
+17,Baldwin,Tammy,WI,Democrat,sen,F,2/11/1962,White - Non-Hispanic,Won,5599335,56759,SenatorBaldwin
+18,Banks,Jim,IN,Republican,rep,M,7/16/1979,White - Non-Hispanic,Won,715145,51453,RepJimBanks
+19,Barr,Garland,KY,Republican,rep,M,7/24/1973,White - Non-Hispanic,Won,723805,50659,RepAndyBarr
+20,Barragan,Nanette,CA,Democrat,rep,F,9/15/1976,Hispanic - Mexican,Won,574950,50890,RepBarragan
+21,Barrasso,John,WY,Republican,sen,M,7/21/1952,White - Non-Hispanic,Won,570345,60938,SenJohnBarrasso
+22,Bass,Karen,CA,Democrat,rep,F,10/3/1953,Black - African-American,Won,592380,55190,RepKarenBass
+23,Beatty,Joyce,OH,Democrat,rep,F,3/12/1950,Black - African-American,Won,709160,45860,RepBeatty
+24,Bennet,Michael,CO,Democrat,sen,M,11/28/1964,White - Non-Hispanic,Not up,5041535,65458,SenatorBennet
+25,Bera,Ami,CA,Democrat,rep,M,3/2/1965,Asian - Indian,Won,681615,68735,RepBera
+26,Bergman,Jack,MI,Republican,rep,M,2/2/1947,White - Non-Hispanic,Won,695750,46927,RepJackBergman
+27,Beyer,Donald,VA,Democrat,rep,M,6/20/1950,White - Non-Hispanic,Won,655370,100719,RepDonBeyer
+28,Biggs,Andy,AZ,Republican,rep,M,11/7/1958,White - Non-Hispanic,Won,728335,71693,RepAndyBiggsAZ
+29,Bilirakis,Gus,FL,Republican,rep,M,2/8/1963,White - Non-Hispanic,Won,701195,49774,RepGusBilirakis
+30,Bishop,Sanford,GA,Democrat,rep,M,2/4/1947,Black - African-American,Won,670425,35617,SanfordBishop
+31,Bishop,Rob,UT,Republican,rep,M,7/13/1951,White - Non-Hispanic,Won,704790,65896,RepRobBishop
+32,Blackburn,Marsha,TN,Republican,sen,F,6/6/1952,White - Non-Hispanic,Open - Retired,6349395,48708,MarshaBlackburn
+33,Blumenauer,Earl,OR,Democrat,rep,M,8/16/1948,White - Non-Hispanic,Won,752315,63231,BlumenauerMedia
+34,Blumenthal,Richard,CT,Democrat,sen,M,2/13/1946,White - Non-Hispanic,Not up,3333940,73781,SenBlumenthal
+35,Blunt,Roy,MO,Republican,sen,M,1/10/1950,White - Non-Hispanic,Not up,5930025,51542,RoyBlunt
+36,Blunt Rochester,Lisa,DE,Democrat,rep,F,2/10/1962,Black - African-American,Won,890715,61757,RepLBR
+37,Bonamici,Suzanne,OR,Democrat,rep,F,10/14/1954,White - Non-Hispanic,Won,742215,72097,RepBonamici
+38,Booker,Cory,NJ,Democrat,sen,M,4/27/1969,Black - African-American,Not up,8019215,76475,SenBooker
+39,Boozman,John,AR,Republican,sen,M,12/10/1950,White - Non-Hispanic,Not up,2874015,43813,JohnBoozman
+40,Bost,Mike,IL,Republican,rep,M,12/30/1960,White - Non-Hispanic,Won,694380,47430,RepBost
+41,Boyle,Brendan,PA,Democrat,rep,M,2/6/1977,White - Non-Hispanic,Won,665528,,CongBoyle
+42,Brady,Kevin,TX,Republican,rep,M,4/11/1955,White - Non-Hispanic,Won,719700,64861,RepKevinBrady
+43,Braun,Mike,IN,Republican,sen,M,3/24/1954,White - Non-Hispanic,Lost,6385820,52182,SenatorBraun
+44,Brindisi,Anthony,NY,Democrat,rep,M,11/22/1978,White - Non-Hispanic,Lost,691840,52967,RepBrindisi
+45,Brooks,Susan,IN,Republican,rep,F,8/25/1960,White - Non-Hispanic,Won,727335,67461,SusanWBrooks
+46,Brooks,Mo,AL,Republican,rep,M,4/29/1954,White - Non-Hispanic,Won,686530,51690,RepMoBrooks
+47,Brown,Anthony,MD,Democrat,rep,M,11/21/1961,Black - African-American,Won,657310,79350,SenSherrodBrown
+48,Brown,Sherrod,OH,Democrat,sen,M,11/9/1952,White - Non-Hispanic,Won,11348025,52407,RepAnthonyBrown
+49,Brownley,Julia,CA,Democrat,rep,F,8/28/1952,White - Non-Hispanic,Won,625225,76914,JuliaBrownley26
+50,Buchanan,Vern,FL,Republican,rep,M,5/8/1951,White - Non-Hispanic,Won,707850,55447,VernBuchanan
+51,Buck,Ken,CO,Republican,rep,M,2/16/1959,White - Non-Hispanic,Won,725970,67878,RepKenBuck
+52,Bucshon,Larry,IN,Republican,rep,M,5/31/1962,White - Non-Hispanic,Won,713350,50261,RepLarryBucshon
+53,Budd,Ted,NC,Republican,rep,M,10/21/1971,White - Non-Hispanic,Won,716695,47440,RepTedBudd
+54,Burchett,Tim,TN,Republican,rep,M,8/25/1964,White - Non-Hispanic,Open - Retired,708115,50701,RepTimBurchett
+55,Burgess,Michael,TX,Republican,rep,M,12/23/1950,White - Non-Hispanic,Won,739340,87272,MichaelCBurgess
+56,Burr,Richard,NC,Republican,sen,M,11/30/1955,White - Non-Hispanic,Not up,9445115,50320,SenatorBurr
+57,Bustos,Cheri,IL,Democrat,rep,F,10/17/1961,White - Non-Hispanic,Won,677305,45360,RepCheri
+58,Butterfield,George,NC,Democrat,rep,M,4/27/1947,Black - African-American,Won,707355,40895,GKButterfield
+59,Byrne,Bradley,AL,Republican,rep,M,2/16/1955,White - Non-Hispanic,Won,688770,47083,RepByrne
+60,Calvert,Ken,CA,Republican,rep,M,6/8/1953,White - Non-Hispanic,Won,693480,76504,KenCalvert
+61,Cantwell,Maria,WA,Democrat,sen,F,10/13/1958,White - Non-Hispanic,Won,6564110,66174,SenatorCantwell
+62,Capito,Shelley,WV,Republican,sen,F,11/26/1953,White - Non-Hispanic,Not up,1831855,44061,SenCapito
+63,Carbajal,Salud,CA,Democrat,rep,M,11/18/1964,Hispanic - Mexican,Won,644190,68929,RepCarbajal
+64,Cardenas,Tony,CA,Democrat,rep,M,3/31/1963,Hispanic - Mexican,Won,545910,50655,RepCardenas
+65,Cardin,Benjamin,MD,Democrat,sen,M,10/5/1943,White - Non-Hispanic,Won,5517145,78916,SenatorCardin
+66,Carper,Thomas,DE,Democrat,sen,M,1/23/1947,White - Non-Hispanic,Won,890715,63036,SenatorCarper
+67,Carson,Andr'e,IN,Democrat,rep,M,10/16/1974,Black - African-American,Won,696285,41429,RepAndreCarson
+68,Carter,John,TX,Republican,rep,M,11/6/1941,White - Non-Hispanic,Won,739530,69228,RepBuddyCarter
+69,Carter,Buddy,GA,Republican,rep,M,9/6/1957,White - Non-Hispanic,Won,701405,50931,JudgeCarter
+70,Cartwright,Matthew,PA,Democrat,rep,M,5/1/1961,White - Non-Hispanic,Won,676877,,RepCartwright
+71,Case,Ed,HI,Democrat,rep,M,9/27/1952,White - Non-Hispanic,Open - Ran for governor,639210,78180,RepEdCase
+72,Casey,Robert,PA,Democrat,sen,M,4/13/1960,White - Non-Hispanic,Won,12390675,56951,SenBobCasey
+73,Cassidy,Bill,LA,Republican,sen,M,9/28/1957,White - Non-Hispanic,Not up,4535710,46710,SenBillCassidy
+74,Casten,Sean,IL,Democrat,rep,M,11/23/1971,White - Non-Hispanic,Lost,682045,97387,RepCasten
+75,Castor,Kathy,FL,Democrat,rep,F,8/20/1966,White - Non-Hispanic,Won,668930,51410,USRepKCastor
+76,Castro,Joaquin,TX,Democrat,rep,M,9/16/1974,Hispanic - Mexican,Won,690435,49421,JoaquinCastrotx
+77,Chabot,Steve,OH,Republican,rep,M,1/22/1953,White - Non-Hispanic,Won,707665,55712,RepSteveChabot
+78,Cheney,Liz,WY,Republican,rep,F,7/28/1966,White - Non-Hispanic,Won,570345,59882,RepLizCheney
+79,Chu,Judy,CA,Democrat,rep,F,7/7/1953,Asian - Chinese,Won,614295,71223,RepJudyChu
+80,Cicilline,David,RI,Democrat,rep,M,7/15/1961,White - Non-Hispanic,Won,486140,56547,RepCicilline
+81,Cisneros,Gilbert,CA,Democrat,rep,M,2/12/1971,Hispanic,Open - Retired,627415,85188,RepGilCisneros
+82,Clark,Katherine,MA,Democrat,rep,F,7/17/1963,White - Non-Hispanic,Won,663390,92268,RepKClark
+83,Clarke,Yvette,NY,Democrat,rep,F,11/21/1964,Black - African-American,Won,627210,54895,RepYvetteClarke
+84,Clay,Lacy,MO,Democrat,rep,M,7/27/1956,Black - African-American,Won,714610,45172,LacyClayMO1
+85,Cleaver,Emanuel,MO,Democrat,rep,M,10/26/1944,Black - African-American,Won,733140,48693,RepCleaver
+86,Cline,Ben,VA,Republican,rep,M,2/29/1972,White - Non-Hispanic,Open - Retired,719490,50061,RepBenCline
+87,Cloud,Michael,TX,Republican,rep,M,5/13/1975,White - Non-Hispanic,Won,687705,53047,RepCloudTX
+88,Clyburn,James,SC,Democrat,rep,M,7/21/1940,Black - African-American,Won,649245,35296,WhipClyburn
+89,Cohen,Steve,TN,Democrat,rep,M,5/24/1949,White - Non-Hispanic,Won,677410,39761,RepCohen
+90,Cole,Tom,OK,Republican,rep,M,4/28/1949,Native American - Chickasaw,Won,760270,55183,TomColeOK04
+91,Collins,Doug,GA,Republican,rep,M,8/16/1966,White - Non-Hispanic,Won,675575,50154,RepDougCollins
+92,Collins,Susan,ME,Republican,sen,F,12/7/1952,White - Non-Hispanic,Not up,1308385,53024,SenatorCollins
+93,Collins,Chris,NY,Republican,rep,M,5/20/1950,White - Non-Hispanic,Won,709535,62698,RepChrisCollins
+95,Conaway,K.,TX,Republican,rep,M,6/11/1948,White - Non-Hispanic,Won,701785,50602,ConawayTX11
+96,Connolly,Gerald,VA,Democrat,rep,M,3/30/1950,White - Non-Hispanic,Won,665415,106554,GerryConnolly
+97,Cook,Paul,CA,Republican,rep,M,3/3/1943,White - Non-Hispanic,Won,667670,49194,RepPaulCook
+98,Coons,Chris,DE,Democrat,sen,M,9/9/1963,White - Non-Hispanic,Not up,890715,63036,ChrisCoons
+99,Cooper,Jim,TN,Democrat,rep,M,6/19/1954,White - Non-Hispanic,Won,691450,54470,RepJimCooper
+100,Cornyn,John,TX,Republican,sen,M,2/2/1952,White - Non-Hispanic,Not up,24051900,57051,JohnCornyn
+101,Correa,Lou,CA,Democrat,rep,M,1/24/1958,Hispanic - Mexican,Won,541120,61304,RepLouCorrea
+102,Cortez Masto,Catherine,NV,Democrat,sen,F,3/29/1964,Hispanic - Mexican,Not up,2547140,55434,sencortezmasto
+103,Costa,Jim,CA,Democrat,rep,M,4/13/1952,White - Portuguese-American,Won,602655,40207,RepJimCosta
+104,Cotton,Tom,AR,Republican,sen,M,5/13/1977,White - Non-Hispanic,Not up,2874015,43813,SenTomCotton
+105,Courtney,Joe,CT,Democrat,rep,M,4/6/1953,White - Non-Hispanic,Won,687725,74784,RepJoeCourtney
+106,Cox,TJ,CA,Democrat,rep,M,7/18/1963,Asian - Filipino/Chinese,Lost,557185,41174,RepTjCox
+107,Craig,Angie,MN,Democrat,rep,F,2/14/1972,White - Non-Hispanic,Lost,662655,80128,RepAngieCraig
+108,Cramer,Kevin,ND,Republican,sen,M,1/21/1961,White - Non-Hispanic,Lost,721470,61285,SenKevinCramer
+109,Crapo,Michael,ID,Republican,sen,M,5/20/1951,White - Non-Hispanic,Not up,1574200,50985,MikeCrapo
+110,Crawford,Eric,AR,Republican,rep,M,1/22/1966,White - Non-Hispanic,Won,716435,40492,RepRickCrawford
+111,Crenshaw,Dan,TX,Republican,rep,M,3/14/1984,White - Non-Hispanic,Open - Retired,662645,72711,RepDanCrenshaw
+112,Crist,Charlie,FL,Democrat,rep,M,7/24/1956,White - Non-Hispanic,Won,675410,48519,repcharliecrist
+113,Crow,Jason,CO,Democrat,rep,M,3/15/1979,White - Non-Hispanic,Lost,712650,76451,RepJasonCrow
+114,Cruz,Ted,TX,Republican,sen,M,12/22/1970,Hispanic - Cuban,Won,24051900,57051,SenTedCruz
+115,Cuellar,Henry,TX,Democrat,rep,M,9/19/1955,Hispanic - Mexican,Won,624435,44021,RepCuellar
+116,Cummings,Elijah,MD,Democrat,rep,M,1/18/1951,Black - African-American,Won,690000,61392,RepCummings
+117,Cunningham,Joe,SC,Democrat,rep,M,5/26/1982,White - Non-Hispanic,Lost in primary,707525,64973,RepCunningham
+118,Curtis,John,UT,Republican,rep,M,5/10/1960,White - Non-Hispanic,Won,701610,70763,RepJohnCurtis
+119,Daines,Steve,MT,Republican,sen,M,8/20/1962,White - Non-Hispanic,Not up,1013805,50801,SteveDaines
+120,Davids,Sharice,KS,Democrat,rep,F,5/22/1980,Native American - Ho-Chunk,Lost,699810,71562,RepDavids
+121,Davidson,Warren,OH,Republican,rep,M,3/1/1970,White - Non-Hispanic,Won,710460,58213,WarrenDavidson
+122,Davis,Rodney,IL,Republican,rep,M,1/5/1970,White - Non-Hispanic,Won,687140,49758,RepDannyDavis
+123,Davis,Danny,IL,Democrat,rep,M,9/6/1941,Black - African-American,Won,671275,54147,RepSusanDavis
+124,Davis,Susan,CA,Democrat,rep,F,4/13/1944,White - Non-Hispanic,Won,675895,69314,RodneyDavis
+125,DeFazio,Peter,OR,Democrat,rep,M,5/27/1947,White - Non-Hispanic,Won,754075,46749,RepPeterDeFazio
+126,DeGette,Diana,CO,Democrat,rep,F,7/29/1957,White - Non-Hispanic,Won,712165,62718,RepDianaDeGette
+127,DeLauro,Rosa,CT,Democrat,rep,F,3/2/1943,White - Non-Hispanic,Won,670070,67774,RosaDeLauro
+128,DeSaulnier,Mark,CA,Democrat,rep,M,3/31/1952,White - Non-Hispanic,Won,644735,86000,RepDeSaulnier
+129,Dean,Madeleine,PA,Democrat,rep,F,6/6/1959,White - Non-Hispanic,Open - Retired,689979,,RepDean
+130,DelBene,Suzan,WA,Democrat,rep,F,2/17/1962,White - Non-Hispanic,Won,655545,91018,RepDelBene
+131,Delgado,Antonio,NY,Democrat,rep,M,1/28/1977,Black - African-American/Hispanic - Puerto Rican,Lost,687730,59619,repdelgado
+132,Demings,Val,FL,Democrat,rep,F,3/12/1957,Black - African-American,Won,674450,50151,RepValDemings
+133,DesJarlais,Scott,TN,Republican,rep,M,2/21/1964,White - Non-Hispanic,Won,722810,50598,DesJarlaisTN04
+134,Deutch,Theodore,FL,Democrat,rep,M,5/7/1966,White - Non-Hispanic,Won,645025,60159,RepTedDeutch
+135,Diaz-Balart,Mario,FL,Republican,rep,M,9/25/1961,Hispanic - Cuban,Won,546765,46247,MarioDB
+136,Dingell,Debbie,MI,Democrat,rep,F,11/23/1953,White - Non-Hispanic,Won,667170,55506,RepDebDingell
+137,Doggett,Lloyd,TX,Democrat,rep,M,10/6/1946,White - Non-Hispanic,Won,684075,48490,RepLloydDoggett
+138,Doyle,Michael,PA,Democrat,rep,M,8/5/1953,White - Non-Hispanic,Won,680872,,USRepMikeDoyle
+139,Duckworth,Tammy,IL,Democrat,sen,F,3/12/1968,Asian - Thai,Not up,11928165,61229,SenDuckworth
+140,Duffy,Sean,WI,Republican,rep,M,10/3/1971,White - Non-Hispanic,Won,701860,51738,RepSeanDuffy
+141,Duncan,Jeff,SC,Republican,rep,M,1/7/1966,White - Non-Hispanic,Won,656220,45042,RepJeffDuncan
+142,Dunn,Neal,FL,Republican,rep,M,2/16/1953,White - Non-Hispanic,Won,691555,46062,drnealdunnfl2
+143,Durbin,Richard,IL,Democrat,sen,M,11/21/1944,White - Non-Hispanic,Not up,11928165,61229,SenatorDurbin
+144,Emmer,Tom,MN,Republican,rep,M,3/3/1961,White - Non-Hispanic,Won,674150,77049,RepTomEmmer
+145,Engel,Eliot,NY,Democrat,rep,M,2/18/1947,White - Non-Hispanic,Won,645505,69086,RepEliotEngel
+146,Enzi,Michael,WY,Republican,sen,M,2/1/1944,White - Non-Hispanic,Not up,570345,60938,SenatorEnzi
+147,Ernst,Joni,IA,Republican,sen,F,7/1/1970,White - Non-Hispanic,Not up,3012095,56570,SenJoniErnst
+148,Escobar,Veronica,TX,Democrat,rep,F,9/15/1969,Hispanic,Open - Ran for Senate,632990,44045,RepEscobar
+149,Eshoo,Anna,CA,Democrat,rep,F,12/13/1942,White - Non-Hispanic,Won,629140,125790,RepAnnaEshoo
+150,Espaillat,Adriano,NY,Democrat,rep,M,9/27/1954,Hispanic - Dominican,Won,620380,41103,RepEspaillat
+151,Estes,Ron,KS,Republican,rep,M,7/19/1956,White - Non-Hispanic,Won,693660,52054,RepRonEstes
+152,Evans,Dwight,PA,Democrat,rep,M,5/16/1954,Black - African-American,Won,684381,,RepDwightEvans
+153,Feinstein,Dianne,CA,Democrat,sen,F,6/22/1933,White - Non-Hispanic,Won,33355855,67169,SenFeinstein
+154,Ferguson,Drew,GA,Republican,rep,M,11/15/1967,White - Non-Hispanic,Won,694610,56240,RepDrewFerguson
+155,Finkenauer,Abby,IA,Democrat,rep,F,12/27/1988,White - Non-Hispanic,Lost,753345,57402,RepFinkenauer
+156,Fischer,Deb,NE,Republican,sen,F,3/1/1951,White - Non-Hispanic,Won,1799310,56675,SenatorFischer
+157,Fitzpatrick,Brian,PA,Republican,rep,M,12/17/1973,White - Non-Hispanic,Won,683529,,repbrianfitz
+158,Fleischmann,Charles,TN,Republican,rep,M,10/11/1962,White - Non-Hispanic,Won,705280,43938,RepChuck
+159,Fletcher,Lizzie,TX,Democrat,rep,F,2/13/1975,White - Non-Hispanic,Lost,618360,71183,RepFletcher
+160,Flores,Bill,TX,Republican,rep,M,2/25/1954,Hispanic - Texan (Hispanos),Won,679545,50888,RepBillFlores
+161,Fortenberry,Jeff,NE,Republican,rep,M,12/27/1960,White - Non-Hispanic,Won,605570,58537,JeffFortenberry
+162,Foster,Bill,IL,Democrat,rep,M,10/7/1955,White - Non-Hispanic,Won,647495,72198,RepBillFoster
+163,Foxx,Virginia,NC,Republican,rep,F,6/29/1943,White - Non-Hispanic,Won,713940,45001,VirginiaFoxx
+164,Frankel,Lois,FL,Democrat,rep,F,5/16/1948,White - Non-Hispanic,Won,645385,55864,RepLoisFrankel
+165,Fudge,Marcia,OH,Democrat,rep,F,10/29/1952,Black - African-American,Won,683215,35735,RepMarciaFudge
+166,Fulcher,Russ,ID,Republican,rep,M,3/9/1962,White - Non-Hispanic,Open - Ran for governor,811550,52199,RepRussFulcher
+167,Gabbard,Tulsi,HI,Democrat,rep,F,4/12/1981,Pacific Islander - Samoan,Won,664745,70867,TulsiPress
+168,Gaetz,Matt,FL,Republican,rep,M,5/7/1982,White - Non-Hispanic,Won,725045,53006,RepMattGaetz
+169,Gallagher,Mike,WI,Republican,rep,M,3/3/1984,White - Non-Hispanic,Won,707485,57888,RepGallagher
+170,Gallego,Ruben,AZ,Democrat,rep,M,11/20/1979,Hispanic - Mexican/Colombian,Won,615185,40991,RepRubenGallego
+171,Garamendi,John,CA,Democrat,rep,M,1/24/1945,White - Non-Hispanic,Won,652310,61508,RepGaramendi
+172,Garcia,Jesus,IL,Democrat,rep,M,4/12/1956,Hispanic - Mexican,Open - Retired,544910,51383,RepChuyGarcia
+173,Garcia,Sylvia,TX,Democrat,rep,F,9/6/1950,Hispanic,Open - Retired,552055,41737,RepSylviaGarcia
+174,Gardner,Cory,CO,Republican,sen,M,8/22/1974,White - Non-Hispanic,Not up,5041535,65458,SenCoryGardner
+176,Gibbs,Bob,OH,Republican,rep,M,6/14/1954,White - Non-Hispanic,Won,717965,53374,RepBobGibbs
+177,Gillibrand,Kirsten,NY,Democrat,sen,F,12/9/1966,White - Non-Hispanic,Won,17677055,62765,GillibrandNY
+178,Gohmert,Louie,TX,Republican,rep,M,8/18/1953,White - Non-Hispanic,Won,672585,45313,RepLouieGohmert
+179,Golden,Jared,ME,Democrat,rep,,7/25/1982,White - Non-Hispanic,Lost,648170,46638,repgolden
+180,Gomez,Jimmy,CA,Democrat,rep,M,11/25/1974,Hispanic - Mexican,Won,506520,40847,RepJimmyGomez
+181,Gonzalez,Anthony,OH,Republican,rep,M,9/18/1984,Hispanic - Cuban,Open - Ran for Senate,709785,64197,RepAGonzalez
+182,Gonzalez,Vicente,TX,Democrat,rep,M,9/4/1967,Hispanic,Won,629555,41947,RepJenniffer
+183,Gonzalez-Colon,Jenniffer,PR,Republican,rep,F,8/5/1976,Hispanic,Won,,,RepGonzalez
+184,Gooden,Lance,TX,Republican,rep,M,12/1/1982,White - Non-Hispanic,Open - Retired,655200,50536,RepLanceGooden
+185,Gosar,Paul,AZ,Republican,rep,M,11/22/1958,White - Non-Hispanic,Won,702085,49466,RepGosar
+186,Gottheimer,Josh,NJ,Democrat,rep,M,3/8/1975,White - Non-Hispanic,Won,691180,100219,RepJoshG
+187,Graham,Lindsey,SC,Republican,sen,M,7/9/1955,White - Non-Hispanic,Not up,4694715,48781,GrahamBlog
+188,Granger,Kay,TX,Republican,rep,F,1/18/1943,White - Non-Hispanic,Won,710775,62214,RepKayGranger
+189,Grassley,Charles,IA,Republican,sen,M,9/17/1933,White - Non-Hispanic,Not up,3012095,56570,ChuckGrassley
+190,Graves,Sam,MO,Republican,rep,M,11/7/1963,White - Non-Hispanic,Won,749380,58532,RepSamGraves
+191,Graves,Garret,LA,Republican,rep,M,1/31/1972,White - Middle Eastern - Lebanese,Won,766160,59270,RepGarretGraves
+192,Graves,Tom,GA,Republican,rep,M,2/3/1970,White - Non-Hispanic,Won,667195,48691,RepTomGraves
+193,Green,Mark,TN,Republican,rep,M,11/8/1964,White - Non-Hispanic,Open - Elected to Senate,727575,53276,RepMarkGreen
+194,Green,Al,TX,Democrat,rep,M,9/1/1947,Black - African-American,Won,599815,46048,RepAlGreen
+195,Griffith,H.,VA,Republican,rep,M,3/15/1958,White - Non-Hispanic,Won,705650,41698,RepMGriffith
+196,Grijalva,Ra'ul,AZ,Democrat,rep,M,2/19/1948,Hispanic - Mexican,Won,648715,44224,RepraulGrijalva
+197,Grothman,Glenn,WI,Republican,rep,M,7/3/1955,White - Non-Hispanic,Won,698950,57129,RepGrothman
+198,Guest,Michael,MS,Republican,rep,M,2/4/1970,White - Non-Hispanic,Open - Retired,737350,45115,RepMichaelGuest
+199,Guthrie,Brett,KY,Republican,rep,M,2/18/1964,White - Non-Hispanic,Won,728320,49960,RepGuthrie
+200,Haaland,Debra,NM,Democrat,rep,F,12/2/1960,Native American - Laguna Pueblo,Open - Elected governor,645865,49570,RepDebHaaland
+201,Hagedorn,Jim,MN,Republican,rep,M,8/4/1962,White - Non-Hispanic,Open - Elected governor,644245,60424,RepHagedorn
+202,Harder,Josh,CA,Democrat,rep,M,8/1/1986,White - Non-Hispanic,Lost,649130,60235,RepJoshHarder
+203,Harris,Andy,MD,Republican,rep,M,1/25/1957,White - Non-Hispanic,Won,710770,69254,RepAndyHarrisMD
+204,Harris,Kamala,CA,Democrat,sen,F,10/20/1964,Black - Jamaican/Asian - Indian,Not up,33355855,67169,SenKamalaHarris
+205,Hartzler,Vicky,MO,Republican,rep,F,10/13/1960,White - Non-Hispanic,Won,746830,48065,RepHartzler
+206,Hassan,Margaret,NH,Democrat,sen,F,2/27/1958,White - Non-Hispanic,Not up,1291410,71305,Senatorhassan
+207,Hastings,Alcee,FL,Democrat,rep,M,9/5/1936,Black - African-American,Won,631450,43677,RepHastingsFL
+208,Hawley,Joshua,MO,Republican,sen,M,12/31/1979,White - Non-Hispanic,Lost,5930025,51542,SenHawleyPress
+209,Hayes,Jahana,CT,Democrat,rep,F,3/8/1973,Black - African-American,Open - Retired,664980,68904,RepJahanaHayes
+210,Heck,Denny,WA,Democrat,rep,M,7/29/1952,White - Non-Hispanic,Won,678135,62206,RepDennyHeck
+211,Heinrich,Martin,NM,Democrat,sen,M,10/17/1971,White - Non-Hispanic,Won,1954250,46718,MartinHeinrich
+212,Hern,Kevin,OK,Republican,rep,M,12/4/1961,White - Non-Hispanic,Vacant - Resignation,741015,52319,repkevinhern
+213,Herrera Beutler,Jaime,WA,Republican,rep,F,11/3/1978,Hispanic - Mexican,Won,670310,61304,HerreraBeutler
+214,Hice,Jody,GA,Republican,rep,M,4/22/1960,White - Non-Hispanic,Won,698745,51532,congressmanhice
+215,Higgins,Clay,LA,Republican,rep,M,8/24/1961,White - Non-Hispanic,Won,760695,44668,RepBrianHiggins
+216,Higgins,Brian,NY,Democrat,rep,M,10/6/1959,White - Non-Hispanic,Won,686395,47358,RepClayHiggins
+217,Hill,French,AR,Republican,rep,M,12/5/1956,White - Non-Hispanic,Won,735830,49498,RepKatieHill
+218,Hill,Katie,CA,Democrat,rep,F,8/25/1987,White - Non-Hispanic,Lost,656050,75367,RepFrenchHill
+219,Himes,James,CT,Democrat,rep,M,7/5/1966,White - Non-Hispanic,Won,646375,94862,jahimes
+220,Hirono,Mazie,HI,Democrat,sen,F,11/3/1947,Asian - Japanese,Won,1303955,74923,MazieHirono
+221,Hoeven,John,ND,Republican,sen,M,3/13/1957,White - Non-Hispanic,Not up,721470,61285,SenJohnHoeven
+222,Holding,George,NC,Republican,rep,M,4/17/1968,White - Non-Hispanic,Won,758085,65792,RepHolding
+223,Hollingsworth,Trey,IN,Republican,rep,M,9/12/1983,White - Non-Hispanic,Won,720475,55078,reptrey
+224,Horn,Kendra,OK,Democrat,rep,F,9/6/1976,White - Non-Hispanic,Lost,737920,49616,RepKendraHorn
+225,Horsford,Steven,NV,Democrat,rep,M,4/29/1973,Black - African-American,Open - Retired,656295,55712,RepHorsford
+226,Houlahan,Chrissy,PA,Democrat,rep,F,6/5/1967,White - Non-Hispanic,Open - Retired,679842,,RepHoulahan
+227,Hoyer,Steny,MD,Democrat,rep,M,6/14/1939,White - Non-Hispanic,Won,713485,95442,LeaderHoyer
+228,Hudson,Richard,NC,Republican,rep,M,11/4/1971,White - Non-Hispanic,Won,733695,50570,RepRichHudson
+229,Huffman,Jared,CA,Democrat,rep,M,2/18/1964,White - Non-Hispanic,Won,660390,66604,RepHuffman
+230,Huizenga,Bill,MI,Republican,rep,M,1/31/1969,White - Non-Hispanic,Won,701475,52919,RepHuizenga
+231,Hunter,Duncan,CA,Republican,rep,M,12/7/1976,White - Non-Hispanic,Won,657385,71692,Rep_Hunter
+232,Hurd,Will,TX,Republican,rep,M,8/19/1977,Black - African-American,Won,662600,51293,hurdonthehill
+233,Hyde-Smith,Cindy,MS,Republican,sen,F,5/10/1959,White - Non-Hispanic,Won,2946760,42009,SenHydeSmith
+234,Inhofe,James,OK,Republican,sen,M,11/17/1934,White - Non-Hispanic,Not up,3725970,49767,InhofePress
+235,Isakson,John,GA,Republican,sen,M,12/28/1944,White - Non-Hispanic,Not up,9507600,52977,SenatorIsakson
+236,Jackson Lee,Sheila,TX,Democrat,rep,F,1/12/1950,Black - African-American,Won,637240,42662,JacksonLeeTX18
+237,Jayapal,Pramila,WA,Democrat,rep,F,9/21/1965,Asian - Indian,Won,669620,84579,RepJayapal
+238,Jeffries,Hakeem,NY,Democrat,rep,M,8/4/1970,Black - African-American,Won,664565,51634,RepJeffries
+239,Johnson,Ron,WI,Republican,sen,M,4/8/1955,White - Non-Hispanic,Not up,5599335,56759,SenRonJohnson
+240,Johnson,Mike,LA,Republican,rep,M,1/30/1972,White - Non-Hispanic,Won,748995,39748,RepMikeJohnson
+241,Johnson,Eddie,TX,Democrat,rep,F,12/3/1935,Black - African-American,Won,652185,44689,RepEBJ
+242,Johnson,Bill,OH,Republican,rep,M,11/10/1954,White - Non-Hispanic,Won,703545,46839,RepBillJohnson
+243,Johnson,Henry,GA,Democrat,rep,M,10/2/1954,Black - African-American,Won,667990,51686,RepHankJohnson
+244,Johnson,Dusty,SD,Republican,rep,M,9/30/1976,White - Non-Hispanic,Open - Elected governor,833720,54467,RepDustyJohnson
+245,Jones,Doug,AL,Democrat,sen,M,5/4/1954,White - Non-Hispanic,Lost in primary,4734505,46472,sendougjones
+247,Jordan,Jim,OH,Republican,rep,M,2/17/1964,White - Non-Hispanic,Won,706585,52632,Jim_Jordan
+248,Joyce,John,PA,Republican,rep,M,2/8/1957,White - Non-Hispanic,Open - Retired,695469,,RepJohnJoyce
+249,Joyce,David,OH,Republican,rep,M,3/17/1957,White - Non-Hispanic,Won,704510,63362,RepDaveJoyce
+251,Kaptur,Marcy,OH,Democrat,rep,F,6/17/1946,White - Non-Hispanic,Won,698945,41417,RepMarcyKaptur
+252,Katko,John,NY,Republican,rep,M,11/9/1962,White - Non-Hispanic,Won,694615,56388,RepJohnKatko
+253,Keating,William,MA,Democrat,rep,M,9/6/1952,White - Non-Hispanic,Won,707605,68173,USRepKeating
+254,Kelly,Robin,IL,Democrat,rep,F,4/30/1956,Black - African-American,Won,679700,48417,MikeKellyPA
+255,Kelly,Mike,PA,Republican,rep,M,5/10/1948,White - Non-Hispanic,Won,689905,,reptrentkelly
+256,Kelly,Trent,MS,Republican,rep,M,3/1/1966,White - Non-Hispanic,Won,745525,43194,RepRobinKelly
+257,Kennedy,John,LA,Republican,sen,M,11/21/1951,White - Non-Hispanic,Not up,4535710,46710,RepJoeKennedy
+258,Kennedy,Joseph,MA,Democrat,rep,M,10/4/1980,White - Non-Hispanic,Won,709785,98530,SenJohnKennedy
+259,Khanna,Ro,CA,Democrat,rep,M,9/13/1976,Asian - Indian,Won,579265,121150,RepRoKhanna
+260,Kildee,Daniel,MI,Democrat,rep,M,8/11/1958,White - Non-Hispanic,Won,680590,42800,RepDanKildee
+261,Kilmer,Derek,WA,Democrat,rep,M,1/1/1974,White - Non-Hispanic,Won,666385,60616,RepDerekKilmer
+262,Kim,Andy,NJ,Democrat,rep,M,7/12/1982,Asian - Korean,Lost,715305,74537,RepAndyKimNJ
+263,Kind,Ron,WI,Democrat,rep,M,3/16/1963,White - Non-Hispanic,Won,710120,52154,RepRonKind
+264,King,Peter,NY,Republican,rep,M,4/5/1944,White - Non-Hispanic,Won,657910,93362,RepPeteKing
+265,King,Angus,ME,Independent,sen,M,3/31/1944,White - Non-Hispanic,Won,1308385,53024,SenAngusKing
+266,King,Steve,IA,Republican,rep,M,5/28/1949,White - Non-Hispanic,Won,735425,53335,SteveKingIA
+267,Kinzinger,Adam,IL,Republican,rep,M,2/27/1978,White - Non-Hispanic,Won,682605,57182,RepKinzinger
+268,Kirkpatrick,Ann,AZ,Democrat,rep,F,3/24/1950,White - Non-Hispanic,Open - Ran for Senate,680785,49072,RepKirkpatrick
+269,Klobuchar,Amy,MN,Democrat,sen,F,5/25/1960,White - Non-Hispanic,Won,5234815,65699,SenAmyKlobuchar
+270,Krishnamoorthi,Raja,IL,Democrat,rep,M,7/19/1973,Asian - Indian,Won,607320,67745,congressmanraja
+271,Kuster,Ann,NH,Democrat,rep,F,9/5/1956,White - Non-Hispanic,Won,642445,70524,RepAnnieKuster
+272,Kustoff,David,TN,Republican,rep,M,10/8/1966,White - Non-Hispanic,Won,695955,54145,repdavidkustoff
+273,LaHood,Darin,IL,Republican,rep,M,7/5/1968,White - Middle Eastern - Lebanese,Won,698930,60857,RepLaHood
+274,LaMalfa,Doug,CA,Republican,rep,M,7/2/1960,White - Non-Hispanic,Won,682190,47488,RepLaMalfa
+275,Lamb,Conor,PA,Democrat,rep,M,6/27/1984,White - Non-Hispanic,Lost,698069,,RepConorLamb
+276,Lamborn,Doug,CO,Republican,rep,M,5/24/1954,White - Non-Hispanic,Won,737480,62372,RepDLamborn
+277,Langevin,James,RI,Democrat,rep,M,4/22/1964,White - Non-Hispanic,Won,500420,63976,JimLangevin
+278,Lankford,James,OK,Republican,sen,M,3/4/1968,White - Non-Hispanic,Not up,3725970,49767,SenatorLankford
+279,Larsen,Rick,WA,Democrat,rep,M,6/15/1965,White - Non-Hispanic,Won,659865,65187,RepRickLarsen
+280,Larson,John,CT,Democrat,rep,M,7/22/1948,White - Non-Hispanic,Won,664790,70215,RepJohnLarson
+281,Latta,Robert,OH,Republican,rep,M,4/18/1956,White - Non-Hispanic,Won,716710,57171,boblatta
+282,Lawrence,Brenda,MI,Democrat,rep,F,10/18/1954,Black - African-American,Won,660515,42695,RepLawrence
+283,Lawson,Al,FL,Democrat,rep,M,9/23/1948,Black - African-American,Won,692450,40932,RepAlLawsonJr
+284,Leahy,Patrick,VT,Democrat,sen,M,3/31/1940,White - Non-Hispanic,Not up,613910,57808,SenatorLeahy
+285,Lee,Barbara,CA,Democrat,rep,F,7/16/1946,Black - African-American,Won,640105,73601,RepBarbaraLee
+286,Lee,Susie,NV,Democrat,rep,F,11/7/1966,White - Non-Hispanic,Open - Elected to Senate,688880,68396,RepSusieLee
+287,Lee,Mike,UT,Republican,sen,M,6/4/1971,White - Non-Hispanic,Not up,2794015,65325,SenMikeLee
+288,Lesko,Debbie,AZ,Republican,rep,F,11/14/1958,White - Non-Hispanic,Won,723400,61754,RepDLesko
+289,Levin,Andy,MI,Democrat,rep,M,8/10/1960,White - Non-Hispanic,Open - Retired,683705,56582,RepAndyLevin
+290,Levin,Mike,CA,Democrat,rep,M,10/20/1978,Hispanic - Mexican / Jewish,Open - Retired,669725,80877,RepMikeLevin
+291,Lewis,John,GA,Democrat,rep,M,2/21/1940,Black - African-American,Won,693925,48269,RepJohnLewis
+292,Lieu,Ted,CA,Democrat,rep,M,3/29/1969,Asian - Chinese,Won,650100,101956,RepTedLieu
+293,Lipinski,Daniel,IL,Democrat,rep,M,7/15/1966,White - Non-Hispanic,Won,647710,66270,RepLipinski
+294,Loebsack,David,IA,Democrat,rep,M,12/23/1952,White - Non-Hispanic,Won,752465,52150,DaveLoebsack
+295,Lofgren,Zoe,CA,Democrat,rep,F,12/21/1947,White - Non-Hispanic,Won,630895,93139,RepZoeLofgren
+296,Long,Billy,MO,Republican,rep,M,8/11/1955,White - Non-Hispanic,Won,749240,44619,USRepLong
+297,Loudermilk,Barry,GA,Republican,rep,M,12/22/1963,White - Non-Hispanic,Won,680000,69610,RepLoudermilk
+298,Lowenthal,Alan,CA,Democrat,rep,M,3/8/1941,White - Non-Hispanic,Won,622865,65450,RepLowenthal
+299,Lowey,Nita,NY,Democrat,rep,F,7/5/1937,White - Non-Hispanic,Won,652005,94451,NitaLowey
+300,Lucas,Frank,OK,Republican,rep,M,1/6/1960,White - Non-Hispanic,Won,747915,47724,RepFrankLucas
+301,Luetkemeyer,Blaine,MO,Republican,rep,M,5/7/1952,White - Non-Hispanic,Won,759400,61929,RepBlaine
+302,Lujan,Ben,NM,Democrat,rep,M,6/7/1972,Hispanic - New Mexican (Hispanos),Won,663825,49210,RepBenRayLujan
+303,Luria,Elaine,VA,Democrat,rep,F,8/15/1975,White - Non-Hispanic,Lost,712635,66953,RepElaineLuria
+304,Lynch,Stephen,MA,Democrat,rep,M,3/31/1955,White - Non-Hispanic,Won,705680,82333,RepStephenLynch
+305,Malinowski,Tom,NJ,Democrat,rep,M,9/23/1965,White - Non-Hispanic,Lost,688390,106896,RepMalinowski
+306,Maloney,Carolyn,NY,Democrat,rep,F,2/19/1946,White - Non-Hispanic,Won,624705,100281,RepMaloney
+307,Maloney,Sean,NY,Democrat,rep,M,7/30/1966,White - Non-Hispanic,Won,686265,80493,RepSeanMaloney
+308,Manchin,Joe,WV,Democrat,sen,M,8/24/1947,White - Non-Hispanic,Won,1831855,44061,Sen_JoeManchin
+309,Marchant,Kenny,TX,Republican,rep,M,2/23/1951,White - Non-Hispanic,Won,650200,70454,RepKenMarchant
+310,Markey,Edward,MA,Democrat,sen,M,7/11/46,White - Non-Hispanic,Not up,6234915,74167,SenMarkey
+311,Marshall,Roger,KS,Republican,rep,M,8/9/1960,White - Non-Hispanic,Won,678245,48156,RepMarshall
+312,Massie,Thomas,KY,Republican,rep,M,1/13/1971,White - Non-Hispanic,Won,731055,60912,RepThomasMassie
+313,Mast,Brian,FL,Republican,rep,M,7/10/1980,Hispanic - Mexican,Won,682745,54913,repbrianmast
+314,Matsui,Doris,CA,Democrat,rep,F,9/25/1944,Asian - Japanese,Won,654205,51932,DorisMatsui
+315,McAdams,Ben,UT,Democrat,rep,M,12/5/1974,White - Non-Hispanic,Lost,707300,68711,RepBenMcAdams
+316,McBath,Lucy,GA,Democrat,rep,F,6/1/1960,Black - African-American,Lost,641380,87139,replucymcbath
+317,McCarthy,Kevin,CA,Republican,rep,M,1/26/1965,White - Non-Hispanic,Won,674330,54437,GOPLeader
+318,McCaul,Michael,TX,Republican,rep,M,1/14/1962,White - Non-Hispanic,Won,705310,73476,RepMcCaul
+319,McClintock,Tom,CA,Republican,rep,M,7/10/1956,White - Non-Hispanic,Won,690565,74074,RepMcClintock
+320,McCollum,Betty,MN,Democrat,rep,F,7/12/1954,White - Non-Hispanic,Won,648390,66175,BettyMcCollum04
+321,McConnell,Mitch,KY,Republican,sen,M,2/20/1942,White - Non-Hispanic,Not up,4314920,46535,McConnellPress
+322,McEachin,A.,VA,Democrat,rep,M,10/10/1961,Black - African-American,Won,734400,54607,RepMcEachin
+323,McGovern,James,MA,Democrat,rep,M,11/20/1959,White - Non-Hispanic,Won,696955,64868,RepMcGovern
+324,McHenry,Patrick,NC,Republican,rep,M,10/22/1975,White - Non-Hispanic,Won,721990,46508,PatrickMcHenry
+325,McKinley,David,WV,Republican,rep,M,3/28/1947,White - Non-Hispanic,Won,611095,45611,RepMcKinley
+326,McMorris Rodgers,Cathy,WA,Republican,rep,F,5/22/1969,White - Non-Hispanic,Won,669340,51697,CathyMcMorris
+327,McNerney,Jerry,CA,Democrat,rep,M,6/18/1951,White - Non-Hispanic,Won,650890,61454,RepMcNerney
+328,McSally,Martha,AZ,Republican,sen,F,3/22/1966,White - Non-Hispanic,Not up,6192380,53510,SenMcSallyAZ
+329,Meadows,Mark,NC,Republican,rep,M,7/28/1959,White - Non-Hispanic,Won,721835,43855,RepMarkMeadows
+330,Meeks,Gregory,NY,Democrat,rep,M,9/25/1953,Black - African-American,Won,653825,66529,RepGregoryMeeks
+331,Menendez,Robert,NJ,Democrat,sen,M,1/1/1954,Hispanic - Cuban,Won,8019215,76475,SenatorMenendez
+332,Meng,Grace,NY,Democrat,rep,F,10/1/1975,Asian - Chinese,Won,575660,61956,RepGraceMeng
+333,Merkley,Jeff,OR,Democrat,sen,M,10/24/1956,White - Non-Hispanic,Not up,3753590,56119,SenJeffMerkley
+334,Meuser,Daniel,PA,Republican,rep,M,2/10/1964,White - Non-Hispanic,Open - Ran for Senate,698087,,RepMeuser
+335,Miller,Carol,WV,Republican,rep,F,11/4/1950,White - Non-Hispanic,Vacant - Ran for Senate and resigned upon apointment to the state Supreme Court,600945,37728,RepCarolMiller
+336,Mitchell,Paul,MI,Republican,rep,M,5/8/1961,White - Non-Hispanic,Won,696715,60934,RepPaulMitchell
+337,Moolenaar,John,MI,Republican,rep,M,5/8/1961,White - Non-Hispanic,Won,694060,48434,RepMoolenaar
+338,Mooney,Alex,WV,Republican,rep,M,6/5/1971,Hispanic - Cuban,Won,619815,48358,RepAlexMooney
+339,Moore,Gwen,WI,Democrat,rep,F,4/18/1951,Black - African-American,Won,672620,41816,RepGwenMoore
+340,Moran,Jerry,KS,Republican,sen,M,5/29/1954,White - Non-Hispanic,Not up,2771385,55477,JerryMoran
+341,Morelle,Joseph,NY,Democrat,rep,M,4/29/1957,White - Non-Hispanic,Vacant - Death,694650,53723,RepJoeMorelle
+342,Moulton,Seth,MA,Democrat,rep,M,10/24/1978,White - Non-Hispanic,Won,712620,84913,teammoulton
+343,Mucarsel-Powell,Debbie,FL,Democrat,rep,F,1/18/1971,Hispanic - Ecuadorean,Lost,613525,54453,RepDMP
+344,Mullin,Markwayne,OK,Republican,rep,M,7/26/1977,Native American - Cherokee,Won,738850,40770,RepMullin
+345,Murkowski,Lisa,AK,Republican,sen,F,5/22/1957,White - Non-Hispanic,Not up,712745,76114,LisaMurkowski
+346,Murphy,Christopher,CT,Democrat,sen,M,8/3/1973,White - Non-Hispanic,Won,3333940,73781,senmurphyoffice
+347,Murphy,Stephanie,FL,Democrat,rep,F,9/16/1978,Asian - Vietnamese,Won,696785,57146,RepStephMurphy
+348,Murray,Patty,WA,Democrat,sen,F,10/11/1950,White - Non-Hispanic,Not up,6564110,66174,PattyMurray
+349,Nadler,Jerrold,NY,Democrat,rep,M,6/13/1947,White - Non-Hispanic,Won,618050,85756,RepJerryNadler
+350,Napolitano,Grace,CA,Democrat,rep,F,12/4/1936,Hispanic - Mexican,Won,603855,67101,GraceNapolitano
+351,Neal,Richard,MA,Democrat,rep,M,2/14/1949,White - Non-Hispanic,Won,707070,55716,RepRichardNeal
+352,Neguse,Joe,CO,Democrat,rep,M,5/13/1984,Black - Eritrean,Open - Elected governor,740025,75659,RepJoeNeguse
+353,Newhouse,Dan,WA,Republican,rep,M,7/10/1955,White - Non-Hispanic,Won,619980,52484,RepNewhouse
+354,Norcross,Donald,NJ,Democrat,rep,M,12/13/1958,White - Non-Hispanic,Won,700485,68208,DonaldNorcross
+355,Norman,Ralph,SC,Republican,rep,M,6/20/1953,White - Non-Hispanic,Won,674325,48743,RepRalphNorman
+356,Norton,Eleanor,DC,Democrat,rep,F,6/13/1937,,,,,EleanorNorton
+357,Nunes,Devin,CA,Republican,rep,M,10/1/1973,White - Portuguese-American,Won,662435,56524,RepDevinNunes
+358,O'Halleran,Tom,AZ,Democrat,rep,M,1/24/1946,White - Non-Hispanic,Won,709770,50537,repohalleran
+359,Ocasio-Cortez,Alexandria,NY,Democrat,rep,F,10/13/1989,Hispanic - Puerto Rican,Lost in primary,540950,53512,RepAOC
+360,Olson,Pete,TX,Republican,rep,M,12/9/1962,White - Non-Hispanic,Won,722835,87901,RepPeteOlson
+361,Omar,Ilhan,MN,Democrat,rep,F,10/4/1982,Black - Somali,Open - Elected state attorney general,636825,59115,Ilhan
+362,Palazzo,Steven,MS,Republican,rep,M,2/21/1970,White - Non-Hispanic,Won,747545,45192,CongPalazzo
+363,Pallone,Frank,NJ,Democrat,rep,M,10/30/1951,White - Non-Hispanic,Won,638160,79229,FrankPallone
+364,Palmer,Gary,AL,Republican,rep,M,5/14/1954,White - Non-Hispanic,Won,673110,61413,USRepGaryPalmer
+365,Panetta,Jimmy,CA,Democrat,rep,M,10/1/1969,White - Non-Hispanic,Won,596880,67419,RepJimmyPanetta
+366,Pappas,Chris,NH,Democrat,rep,M,6/4/1980,White - Non-Hispanic,Open - Retired,648965,71277,RepChrisPappas
+367,Pascrell,Bill,NJ,Democrat,rep,M,1/25/1937,White - Non-Hispanic,Won,630465,64964,BillPascrell
+368,Paul,Rand,KY,Republican,sen,M,1/7/1963,White - Non-Hispanic,Not up,4314920,46535,RandPaul
+369,Payne,Donald,NJ,Democrat,rep,M,12/17/1958,Black - African-American,Won,645270,50100,RepDonaldPayne
+370,Pelosi,Nancy,CA,Democrat,rep,F,3/26/1940,White - Non-Hispanic,Won,642175,105918,SpeakerPelosi
+371,Pence,Greg,IN,Republican,rep,M,11/14/1956,White - Non-Hispanic,Open - Ran for Senate,706690,51033,RepGregPence
+372,Perdue,David,GA,Republican,sen,M,12/10/1949,White - Non-Hispanic,Not up,9507600,52977,sendavidperdue
+373,Perlmutter,Ed,CO,Democrat,rep,M,5/1/1953,White - Non-Hispanic,Won,715950,66063,RepPerlmutter
+374,Perry,Scott,PA,Republican,rep,M,5/27/1962,White - Non-Hispanic,Won,698554,,RepScottPerry
+375,Peters,Scott,CA,Democrat,rep,M,6/17/1958,White - Non-Hispanic,Won,667510,90854,RepScottPeters
+376,Peters,Gary,MI,Democrat,sen,M,12/1/1958,White - Non-Hispanic,Not up,9601980,52668,SenGaryPeters
+378,Phillips,Dean,MN,Democrat,rep,M,1/20/1969,White - Non-Hispanic,Lost,659750,84689,RepDeanPhillips
+379,Pingree,Chellie,ME,Democrat,rep,F,4/2/1955,White - Non-Hispanic,Won,660215,61173,ChelliePingree
+380,Plaskett,Stacey,VI,Democrat,rep,F,5/13/1966,,,,,staceyplaskett
+381,Pocan,Mark,WI,Democrat,rep,M,8/14/1964,White - Non-Hispanic,Won,710080,65589,RepMarkPocan
+382,Porter,Katie,CA,Democrat,rep,F,1/3/1974,White - Non-Hispanic,Lost,660030,97356,RepKatiePorter
+383,Portman,Robert,OH,Republican,sen,M,12/19/1955,White - Non-Hispanic,Not up,11348025,52407,SenRobPortman
+384,Posey,Bill,FL,Republican,rep,M,12/18/1947,White - Non-Hispanic,Won,695070,50752,CongBillPosey
+385,Pressley,Ayanna,MA,Democrat,rep,F,2/3/1974,Black - African-American,Lost in primary,636625,60873,RepPressley
+386,Price,David,NC,Democrat,rep,M,8/17/1940,White - Non-Hispanic,Won,731965,70587,RepDavidEPrice
+387,Quigley,Mike,IL,Democrat,rep,M,10/17/1958,White - Non-Hispanic,Won,662430,80269,RepMikeQuigley
+388,Raskin,Jamie,MD,Democrat,rep,M,12/13/1962,White - Non-Hispanic,Won,664065,98991,repraskin
+389,Ratcliffe,John,TX,Republican,rep,M,10/20/1965,White - Non-Hispanic,Won,691220,52481,RepRatcliffe
+390,Reed,Tom,NY,Republican,rep,M,11/18/1971,White - Non-Hispanic,Won,694140,48730,RepTomReed
+391,Reed,John,RI,Democrat,sen,M,11/12/1949,White - Non-Hispanic,Not up,986560,61043,SenJackReed
+392,Reschenthaler,Guy,PA,Republican,rep,M,4/17/1983,White - Non-Hispanic,Open - Elected in PA-17,693644,,GReschenthaler
+393,Rice,Tom,SC,Republican,rep,M,8/4/1957,White - Non-Hispanic,Won,671790,43146,RepTomRice
+394,Rice,Kathleen,NY,Democrat,rep,F,2/15/1965,White - Non-Hispanic,Won,654400,100178,RepKathleenRice
+395,Richmond,Cedric,LA,Democrat,rep,M,9/13/1973,Black - African-American,Won,752895,36798,RepRichmond
+396,Riggleman,Denver,VA,Republican,rep,M,3/17/1970,White - Non-Hispanic,Open - Retired,713215,52237,RepRiggleman
+397,Risch,James,ID,Republican,sen,M,5/3/1943,White - Non-Hispanic,Not up,1574200,50985,SenatorRisch
+398,Roberts,Pat,KS,Republican,sen,M,4/20/1936,White - Non-Hispanic,Not up,2771385,55477,SenPatRoberts
+399,Roby,Martha,AL,Republican,rep,F,7/27/1976,White - Non-Hispanic,Won,671185,42035,RepMarthaRoby
+400,Roe,David,TN,Republican,rep,M,7/21/1945,White - Non-Hispanic,Won,698495,41006,DrPhilRoe
+401,Rogers,Harold,KY,Republican,rep,M,12/31/1937,White - Non-Hispanic,Won,707830,30585,RepHalRogers
+402,Rogers,Mike,AL,Republican,rep,M,7/16/1958,White - Non-Hispanic,Won,687545,46544,RepMikeRogersAL
+403,Romney,Mitt,UT,Republican,sen,M,3/12/1947,White - Non-Hispanic,Open - Retired,2794015,65325,SenatorRomney
+404,Rooney,Francis,FL,Republican,rep,M,12/4/1953,White - Non-Hispanic,Won,688235,54812,RepRooney
+405,Rose,Max,NY,Democrat,rep,M,11/28/1986,White - Non-Hispanic,Lost,653305,71072,RepMaxRose
+406,Rose,John,TN,Republican,rep,M,2/23/1965,White - Non-Hispanic,Open - Ran for governor,722305,50731,RepJohnRose
+407,Rosen,Jacky,NV,Democrat,sen,F,8/2/1957,White - Non-Hispanic,Lost,2547140,55434,SenJackyRosen
+408,Rouda,Harley,CA,Democrat,rep,M,12/10/1961,White - Non-Hispanic,Lost,656895,88903,RepHarley
+409,Rounds,Mike,SD,Republican,sen,M,10/24/1954,White - Non-Hispanic,Not up,833720,54126,SenatorRounds
+410,Rouzer,David,NC,Republican,rep,M,2/16/1972,White - Non-Hispanic,Won,733585,45002,RepDavidRouzer
+411,Roy,Chip,TX,Republican,rep,M,8/7/1972,White - Non-Hispanic,Open - Retired,720115,68987,RepChipRoy
+412,Roybal-Allard,Lucille,CA,Democrat,rep,F,6/12/1941,Hispanic - Mexican,Won,513225,42902,RepRoybalAllard
+413,Rubio,Marco,FL,Republican,sen,M,5/28/1971,Hispanic - Cuban,Not up,18101505,50883,SenRubioPress
+414,Ruiz,Raul,CA,Democrat,rep,M,8/25/1972,Hispanic - Mexican,Won,637385,44567,CongressmanRuiz
+415,Ruppersberger,C.,MD,Democrat,rep,M,1/31/1946,White - Non-Hispanic,Won,706580,69128,Call_Me_Dutch
+416,Rush,Bobby,IL,Democrat,rep,M,11/23/1946,Black - African-American,Won,684775,50523,RepBobbyRush
+417,Rutherford,John,FL,Republican,rep,M,9/2/1952,White - Non-Hispanic,Won,717255,68229,RepRutherfordFL
+418,Ryan,Tim,OH,Democrat,rep,M,7/16/1973,White - Non-Hispanic,Won,696855,42430,RepTimRyan
+419,Sablan,Gregorio,MP,Democrat,rep,M,1/19/1955,,,,,Kilili_Sablan
+420,Sanchez,Linda,CA,Democrat,rep,F,1/28/1969,Hispanic - Mexican,Won,625175,66421,RepLindaSanchez
+421,Sanders,Bernard,VT,Independent,sen,M,9/8/1941,White - Non-Hispanic,Won,613910,57808,SenSanders
+422,Sarbanes,John,MD,Democrat,rep,M,5/22/1962,White - Non-Hispanic,Won,693445,83620,RepSarbanes
+423,Sasse,Benjamin,NE,Republican,sen,M,2/22/1972,White - Non-Hispanic,Not up,1799310,56675,SenSasse
+424,Scalise,Steve,LA,Republican,rep,M,10/6/1965,White - Non-Hispanic,Won,762895,56938,SteveScalise
+425,Scanlon,Mary,PA,Democrat,rep,F,8/30/1959,White - Non-Hispanic,Vacant - Resignation,675299,,RepMGS
+426,Schakowsky,Janice,IL,Democrat,rep,F,5/26/1944,White - Non-Hispanic,Won,640635,67084,JanSchakowsky
+427,Schatz,Brian,HI,Democrat,sen,M,10/20/1972,White - Non-Hispanic,Not up,1303955,74923,SenBrianSchatz
+428,Schiff,Adam,CA,Democrat,rep,M,6/22/1960,White - Non-Hispanic,Won,600475,63940,RepAdamSchiff
+429,Schneider,Bradley,IL,Democrat,rep,M,8/20/1961,White - Non-Hispanic,Won,627430,74971,repschneider
+430,Schrader,Kurt,OR,Democrat,rep,M,10/19/1951,White - Non-Hispanic,Won,748460,60395,RepSchrader
+431,Schrier,Kim,WA,Democrat,rep,F,8/23/1968,White - Non-Hispanic,Open - Retired,666200,79516,RepKimSchrier
+432,Schumer,Charles,NY,Democrat,sen,M,11/23/1950,White - Non-Hispanic,Not up,17677055,62765,SenSchumer
+433,Schweikert,David,AZ,Republican,rep,M,3/3/1962,White - Non-Hispanic,Won,696790,67830,RepDavid
+434,Scott,Robert,VA,Democrat,rep,M,4/30/1947,Black - African-American/Asian - Filipino,Won,719895,51794,BobbyScott
+435,Scott,David,GA,Democrat,rep,M,6/27/1945,Black - African-American,Won,684200,57342,RepDavidScott
+436,Scott,Rick,FL,Republican,sen,M,12/1/1952,White - Non-Hispanic,Lost,18101505,50883,SenRickScott
+437,Scott,Austin,GA,Republican,rep,M,12/10/1969,White - Non-Hispanic,Won,682145,44360,AustinScottGA08
+438,Scott,Tim,SC,Republican,sen,M,9/19/1965,Black - African-American,Not up,4694715,48781,SenatorTimScott
+439,Sensenbrenner,F.,WI,Republican,rep,M,6/14/1943,White - Non-Hispanic,Won,702210,68162,JimPressOffice
+440,Serrano,Jose,NY,Democrat,rep,M,10/24/1943,Hispanic - Puerto Rican,Won,590245,29234,RepJoseSerrano
+441,Sewell,Terri,AL,Democrat,rep,F,1/1/1965,Black - African-American,Won,662645,34664,RepTerriSewell
+442,Shaheen,Jeanne,NH,Democrat,sen,F,1/28/1947,White - Non-Hispanic,Not up,1291410,71305,SenatorShaheen
+443,Shalala,Donna,FL,Democrat,rep,F,2/14/1941,White - Middle Eastern - Lebanese,Open - Retired,556235,51958,RepShalala
+444,Shelby,Richard,AL,Republican,sen,M,5/6/1934,White - Non-Hispanic,Not up,4734505,46472,SenShelby
+445,Sherman,Brad,CA,Democrat,rep,M,10/24/1954,White - Non-Hispanic,Won,651345,76778,BradSherman
+446,Sherrill,Mikie,NJ,Democrat,rep,F,1/19/1972,White - Non-Hispanic,Open - Retired,694685,108260,RepSherrill
+447,Shimkus,John,IL,Republican,rep,M,2/21/1958,White - Non-Hispanic,Won,696530,49927,RepShimkus
+448,Simpson,Michael,ID,Republican,rep,M,9/8/1950,White - Non-Hispanic,Won,762650,51294,CongMikeSimpson
+449,Sinema,Kyrsten,AZ,Democrat,sen,F,7/12/1976,White - Non-Hispanic,Open - Retired,6192380,53510,SenatorSinema
+450,Sires,Albio,NJ,Democrat,rep,M,1/26/1951,Hispanic - Cuban,Won,574780,57391,RepSires
+451,Slotkin,Elissa,MI,Democrat,rep,F,7/10/1976,White - Non-Hispanic,Lost,694265,66495,RepSlotkin
+452,Smith,Tina,MN,Democrat,sen,F,3/4/1958,White - Non-Hispanic,Won,5234815,65699,RepChrisSmith
+453,Smith,Adam,WA,Democrat,rep,M,6/15/1965,White - Non-Hispanic,Won,608730,75407,RepAdrianSmith
+454,Smith,Adrian,NE,Republican,rep,M,12/19/1970,White - Non-Hispanic,Won,586185,50985,RepAdamSmith
+455,Smith,Jason,MO,Republican,rep,M,6/16/1980,White - Non-Hispanic,Won,740015,40639,RepJasonSmith
+456,Smith,Christopher,NJ,Republican,rep,M,3/4/1953,White - Non-Hispanic,Won,699475,78511,SenTinaSmith
+457,Smucker,Lloyd,PA,Republican,rep,M,1/23/1964,White - Non-Hispanic,Won,708533,,RepSmucker
+458,Soto,Darren,FL,Democrat,rep,M,2/25/1978,Hispanic - Puerto Rican,Won,714440,49899,RepDarrenSoto
+459,Spanberger,Abigail,VA,Democrat,rep,F,8/7/1979,White - Non-Hispanic,Lost,725995,73580,RepSpanberger
+460,Spano,Ross,FL,Republican,rep,M,7/16/1966,White - Non-Hispanic,Open - Retired,703740,53784,RepRossSpano
+461,Speier,Jackie,CA,Democrat,rep,F,5/14/1950,White - Non-Hispanic,Won,628140,103850,RepSpeier
+462,Stabenow,Debbie,MI,Democrat,sen,F,4/29/1950,White - Non-Hispanic,Won,9601980,52668,SenStabenow
+463,Stanton,Greg,AZ,Democrat,rep,M,3/8/1970,White - Non-Hispanic,Open - Ran for Senate,687315,55349,RepGregStanton
+464,Stauber,Pete,MN,Republican,rep,M,5/10/1966,White - Non-Hispanic,Open - Retired,657900,53676,RepPeteStauber
+465,Stefanik,Elise,NY,Republican,rep,F,7/2/1984,White - Non-Hispanic,Won,704000,52350,RepStefanik
+466,Steil,Bryan,WI,Republican,rep,M,3/3/1981,White - Non-Hispanic,Open - Retired,696010,61589,RepBryanSteil
+467,Steube,Greg,FL,Republican,rep,M,5/19/1978,White - Non-Hispanic,Open - Retired,687455,45508,RepGregSteube
+468,Stevens,Haley,MI,Democrat,rep,F,6/24/1983,White - Non-Hispanic,Open - Retired,673925,79805,RepHaleyStevens
+469,Stewart,Chris,UT,Republican,rep,M,7/15/1960,White - Non-Hispanic,Won,680315,60700,RepChrisStewart
+470,Stivers,Steve,OH,Republican,rep,M,3/24/1965,White - Non-Hispanic,Won,726345,61514,RepSteveStivers
+471,Sullivan,Dan,AK,Republican,sen,M,11/13/1964,White - Non-Hispanic,Not up,712745,76114,SenDanSullivan
+472,Suozzi,Thomas,NY,Democrat,rep,M,8/31/1962,White - Non-Hispanic,Won,672660,111504,RepTomSuozzi
+473,Swalwell,Eric,CA,Democrat,rep,M,11/16/1980,White - Non-Hispanic,Won,640280,106291,RepSwalwell
+474,Takano,Mark,CA,Democrat,rep,M,12/10/1960,Asian - Japanese,Won,636580,62069,RepMarkTakano
+475,Taylor,Van,TX,Republican,rep,M,8/1/1972,White - Non-Hispanic,Open - Retired,709045,88619,RepVanTaylor
+476,Tester,Jon,MT,Democrat,sen,M,8/21/1956,White - Non-Hispanic,Won,1013805,50801,SenatorTester
+477,Thompson,Glenn,PA,Republican,rep,M,7/27/1959,White - Non-Hispanic,Won,688119,,RepThompson
+478,Thompson,Bennie,MS,Democrat,rep,M,1/28/1948,Black - African-American,Won,716340,34392,BennieGThompson
+479,Thompson,Mike,CA,Democrat,rep,M,1/24/1951,White - Non-Hispanic,Won,649765,73006,CongressmanGT
+480,Thornberry,Mac,TX,Republican,rep,M,7/15/1958,White - Non-Hispanic,Won,661255,50150,MacTXPress
+481,Thune,John,SD,Republican,sen,M,1/7/1961,White - Non-Hispanic,Not up,833720,54126,SenJohnThune
+482,Tillis,Thom,NC,Republican,sen,M,8/30/1960,White - Non-Hispanic,Not up,9445115,50320,senthomtillis
+483,Timmons,William,SC,Republican,rep,M,4/30/1984,White - Non-Hispanic,Open - Retired,665895,51718,RepTimmons
+484,Tipton,Scott,CO,Republican,rep,M,11/9/1956,White - Non-Hispanic,Won,697295,50817,RepTipton
+485,Titus,Dina,NV,Democrat,rep,F,5/23/1950,White - Non-Hispanic,Won,554245,38000,RepDinaTitus
+486,Tlaib,Rashida,MI,Democrat,rep,F,7/24/1976,White - Middle Eastern - Palestinian,Vacant - Resignation,660370,33995,RepRashida
+487,Tonko,Paul,NY,Democrat,rep,M,6/18/1949,White - Non-Hispanic,Won,699020,64226,RepPaulTonko
+488,Toomey,Patrick,PA,Republican,sen,M,11/17/1961,White - Non-Hispanic,Not up,12390675,56951,SenToomey
+489,Torres,Norma,CA,Democrat,rep,F,4/4/1965,Hispanic - Guatemalan,Won,601835,57159,NormaJTorres
+490,Torres Small,Xochitl,NM,Democrat,rep,F,11/15/1984,Hispanic,Open - Ran for governor,644560,41797,RepTorresSmall
+491,Trahan,Lori,MA,Democrat,rep,F,10/27/1973,White - Portuguese-American,Open - Retired,695185,77995,RepLoriTrahan
+492,Trone,David,MD,Democrat,rep,M,9/21/1955,White - Non-Hispanic,Open - Retired,681490,75774,repdavidtrone
+493,Turner,Michael,OH,Republican,rep,M,1/11/1960,White - Non-Hispanic,Won,705675,49988,RepMikeTurner
+494,Udall,Tom,NM,Democrat,sen,M,5/18/1948,White - Non-Hispanic,Not up,1954250,46718,SenatorTomUdall
+495,Underwood,Lauren,IL,Democrat,rep,F,10/4/1986,Black - African-American,Lost,695550,90345,RepUnderwood
+496,Upton,Fred,MI,Republican,rep,M,4/23/1953,White - Non-Hispanic,Won,694955,51477,RepFredUpton
+497,Van Drew,Jefferson,NJ,Democrat,rep,M,2/23/1953,White - Non-Hispanic,Open - Retired,691390,60756,CongressmanJVD
+498,Van Hollen,Chris,MD,Democrat,sen,M,1/10/1959,White - Non-Hispanic,Not up,5517145,78916,ChrisVanHollen
+499,Vargas,Juan,CA,Democrat,rep,M,3/7/1961,Hispanic - Mexican,Won,591345,46639,RepJuanVargas
+500,Veasey,Marc,TX,Democrat,rep,M,1/3/1971,Black - African-American,Won,532215,38445,RepVeasey
+501,Vela,Filemon,TX,Democrat,rep,M,2/13/1963,Hispanic - Mexican,Won,618805,37989,RepFilemonVela
+502,Velazquez,Nydia,NY,Democrat,rep,F,3/28/1953,Hispanic - Puerto Rican,Won,598300,55207,NydiaVelazquez
+503,Visclosky,Peter,IN,Democrat,rep,M,8/13/1949,White - Non-Hispanic,Won,698475,56370,RepVisclosky
+504,Wagner,Ann,MO,Republican,rep,F,9/13/1962,White - Non-Hispanic,Won,737410,79724,RepAnnWagner
+505,Walberg,Tim,MI,Republican,rep,M,4/12/1951,White - Non-Hispanic,Won,695940,56427,RepWalberg
+506,Walden,Greg,OR,Republican,rep,M,1/10/1957,White - Non-Hispanic,Won,756525,49837,RepGregWalden
+507,Walker,Mark,NC,Republican,rep,M,5/20/1969,White - Non-Hispanic,Won,717700,47335,RepMarkWalker
+508,Walorski,Jackie,IN,Republican,rep,F,8/17/1963,White - Non-Hispanic,Won,695045,51292,RepWalorski
+509,Waltz,Michael,FL,Republican,rep,M,1/31/1974,White - Non-Hispanic,Open - Elected governor,706230,46882,RepMichaelWaltz
+510,Warner,Mark,VA,Democrat,sen,M,12/15/1954,White - Non-Hispanic,Not up,7816285,68766,MarkWarner
+511,Warren,Elizabeth,MA,Democrat,sen,F,6/22/1949,White - Non-Hispanic,Won,6234915,74167,SenWarren
+512,Wasserman Schultz,Debbie,FL,Democrat,rep,F,9/27/1966,White - Non-Hispanic,Won,639660,61513,RepDWStweets
+513,Waters,Maxine,CA,Democrat,rep,F,8/15/1938,Black - African-American,Won,595560,54614,RepMaxineWaters
+514,Watkins,Steven,KS,Republican,rep,M,9/18/1976,White - Non-Hispanic,Open - Retired,699670,51778,Rep_Watkins
+515,Watson Coleman,Bonnie,NJ,Democrat,rep,F,2/6/1945,Black - African-American,Won,649630,85744,RepBonnie
+516,Weber,Randy,TX,Republican,rep,M,7/2/1953,White - Non-Hispanic,Won,679340,58103,TXRandy14
+517,Webster,Daniel,FL,Republican,rep,M,4/27/1949,White - Non-Hispanic,Won,710335,43610,RepWebster
+518,Welch,Peter,VT,Democrat,rep,M,5/2/1947,White - Non-Hispanic,Won,613910,57677,PeterWelch
+519,Wenstrup,Brad,OH,Republican,rep,M,6/17/1958,White - Non-Hispanic,Won,715415,55472,RepBradWenstrup
+520,Westerman,Bruce,AR,Republican,rep,M,11/18/1967,White - Non-Hispanic,Won,699895,39586,RepWesterman
+521,Wexton,Jennifer,VA,Democrat,rep,F,5/27/1968,White - Non-Hispanic,Lost,725295,120384,RepWexton
+522,Whitehouse,Sheldon,RI,Democrat,sen,M,10/20/1955,White - Non-Hispanic,Won,986560,61043,SenWhitehouse
+523,Wicker,Roger,MS,Republican,sen,M,7/5/1951,White - Non-Hispanic,Won,2946760,42009,SenatorWicker
+524,Wild,Susan,PA,Democrat,rep,F,6/7/1957,White - Non-Hispanic,Vacant - Resignation,690233,,RepSusanWild
+525,Williams,Roger,TX,Republican,rep,M,9/13/1949,White - Non-Hispanic,Won,712800,69083,RepRWilliams
+526,Wilson,Frederica,FL,Democrat,rep,F,11/5/1942,Black - African-American,Won,594600,38441,RepJoeWilson
+527,Wilson,Joe,SC,Republican,rep,M,7/31/1947,White - Non-Hispanic,Won,669715,57253,RepWilson
+528,Wittman,Robert,VA,Republican,rep,M,2/3/1959,White - Non-Hispanic,Won,738925,81338,RobWittman
+529,Womack,Steve,AR,Republican,rep,M,2/18/1957,White - Non-Hispanic,Won,721855,47903,Rep_SteveWomack
+530,Woodall,Rob,GA,Republican,rep,M,2/11/1970,White - Non-Hispanic,Won,657130,72481,RepRobWoodall
+531,Wright,Ron,TX,Republican,rep,M,4/8/1953,White - Non-Hispanic,Open - Retired,692060,65758,RepRonWright
+532,Wyden,Ron,OR,Democrat,sen,M,5/3/1949,White - Non-Hispanic,Not up,3753590,56119,RonWyden
+533,Yarmuth,John,KY,Democrat,rep,M,11/4/1947,White - Non-Hispanic,Won,708115,51070,RepJohnYarmuth
+534,Yoho,Ted,FL,Republican,rep,M,4/13/1955,White - Non-Hispanic,Won,689685,45970,RepTedYoho
+535,Young,Todd,IN,Republican,sen,M,8/24/1972,White - Non-Hispanic,Not up,6385820,52182,SenToddYoung
+536,Young,Don,AK,Republican,rep,M,6/9/1933,White - Non-Hispanic,Won,712745,76440,RepDonYoung
+537,Zeldin,Lee,NY,Republican,rep,M,1/30/1980,White - Non-Hispanic,Won,679190,90435,RepLeeZeldin
