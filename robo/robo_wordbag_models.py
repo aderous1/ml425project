@@ -48,7 +48,7 @@ print(f"Only related: \n{related}")
 no_urls = re.compile(r'https?:\S+')
 
 sentences = related['Tweet Text'].str.replace(no_urls, '')
-reliability = related['Reliability Score']
+reliability = related['Reliability Score'].replace(0, 1)
 
 vectorizer.fit(sentences)
 
@@ -62,6 +62,7 @@ x_train = vectorizer.transform(sents_train).todense()
 x_test = vectorizer.transform(sents_test).todense()
 
 print(f"Training count: {x_train.shape}")
+print(f"Test count: {x_test.shape}")
 
 # NOTE actual ML approaches now
 
@@ -92,10 +93,10 @@ k_seq_model.summary()
 
 k_seq_hist = k_seq_model.fit(
     x_train, cat_train,
-    epochs=20,
+    epochs=10,
     verbose=True,
     validation_data=(x_test, cat_test),
-    batch_size=5
+    batch_size=2
 )
 
 loss, acc = k_seq_model.evaluate(x_train, cat_train, verbose=False)
