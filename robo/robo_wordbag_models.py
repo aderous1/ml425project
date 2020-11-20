@@ -10,6 +10,9 @@ from sklearn.linear_model import LogisticRegression
 from tensorflow.keras.models import Sequential
 # from keras import layers
 from tensorflow.keras import layers
+import tensorflow as tf
+from keras.preprocessing.text import Tokenizer
+from keras.preprocessing.sequence import pad_sequences
 
 # function stolen from https://realpython.com/python-keras-text-classification/
 def plot_history(history):
@@ -55,7 +58,7 @@ vectorizer.fit(sentences)
 print(f"vectorizer size: {len(vectorizer.vocabulary_)}")
 
 sents_train, sents_test, cat_train, cat_test = train_test_split(
-    sentences, reliability, test_size=0.1
+    sentences, reliability, test_size=0.2
 )
 
 x_train = vectorizer.transform(sents_train).todense()
@@ -76,10 +79,30 @@ print(f"LogisticRegression score: {score}")
 
 ## try Keras sequential models:
 
-input_dim = x_train.shape[1]
+k_tokenizer = Tokenizer(num_words=900)
+k_tokenizer.fit_on_texts(sents_train)
+x_train = k_tokenizer.texts_to_sequences(sents_train)
+x_test = k_tokenizer.texts_to_sequences(sents_test)
+
+maxsentlen = 100
+
+x_train = pad_sequences(x_train, padding='post', maxlen=maxsentlen)
+x_test =  pad_sequences(x_test,  padding='post', maxlen=maxsentlen)
+
+vocab_size = len(k_tokenizer.word_index) + 1
+# input_dim = x_train.shape[1]
+embedding_dim = 50
+
+callback = tf.keras.callbacks.EarlyStopping(monitor='val_loss', patience=3)
 
 k_seq_model = Sequential()
-k_seq_model.add(layers.Dense(2, input_dim=input_dim, activation='relu'))
+k_seq_model.add(layers.Embedding(
+    input_dim=vocab_size,
+    output_dim=embedding_dim,
+    input_length=maxsentlen
+))
+k_seq_model.add(layers.GlobalMaxPool1D())
+k_seq_model.add(layers.Dense(10, activation='relu'))
 k_seq_model.add(layers.Dense(1, activation='sigmoid'))
 
 k_seq_model.compile(
@@ -93,10 +116,11 @@ k_seq_model.summary()
 
 k_seq_hist = k_seq_model.fit(
     x_train, cat_train,
-    epochs=10,
+    epochs=20,
     verbose=True,
     validation_data=(x_test, cat_test),
-    batch_size=2
+    batch_size=1,
+    callbacks=[callback]
 )
 
 loss, acc = k_seq_model.evaluate(x_train, cat_train, verbose=False)
