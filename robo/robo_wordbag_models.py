@@ -130,3 +130,21 @@ print(f"k_seq test set accuracy: {acc} with loss {loss}")
 
 plot_history(k_seq_hist)
 plt.show()
+
+### NOTE now rate every tweet...
+
+all_tweets = pd.read_csv('data/all_filtered_randosort.csv')
+print(all_tweets)
+
+run_sents = all_tweets['Tweet Text'].str.replace(no_urls, '')
+run_x = k_tokenizer.texts_to_sequences(run_sents)
+run_x = pad_sequences(run_x, padding='post', maxlen=maxsentlen)
+
+run_predictions = k_seq_model.predict_classes(run_x, verbose=True)
+run_predictions = run_predictions.ravel()
+
+print(run_predictions)
+
+all_tweets['predicted reliability'] = pd.Series(run_predictions, index=all_tweets.index)
+
+all_tweets.to_csv('data/robo_model_predictions.csv')
